@@ -32,3 +32,9 @@ print(df2)
 
 df2['name'] = df2['name'].fillna("UNKNOWN")
 print(df2)
+
+# Check         ->          isnull(), isna()
+# Drop          ->          dropna()
+# Fill miss     ->          fillna()
+# Column-wise fill ->       df['age'/'city'/'col-name].fillnae(...)
+# Fill          -> directvalue, mean()
