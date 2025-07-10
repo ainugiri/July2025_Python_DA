@@ -1,0 +1,24 @@
+eid,name,dept,sal,city,des_level,proj_name,proj_duration,proj_budget
+1,giri,IT,1000,hyderabad,1.0,Project A,12 months,100000.0
+2,ram,IT,2000,chennai,2.0,Project B,6 months,50000.0
+3,raju,HR,3000,mumbai,1.0,Project C,3 months,30000.0
+4,krishna,HR,4000,delhi,3.0,Project D,18 months,200000.0
+5,priya,IT,5000,hyderabad,2.0,Project E,9 months,75000.0
+6,anil,HR,6000,chennai,1.0,Project F,15 months,150000.0
+7,rajesh,IT,7000,mumbai,3.0,Project G,24 months,300000.0
+8,sita,HR,8000,delhi,2.0,Project H,12 months,120000.0
+9,arun,IT,9000,hyderabad,1.0,Project I,6 months,60000.0
+10,meera,HR,10000,chenai,3.0,Project J,9 months,90000.0
+11,rohit,IT,11000,mumbai,2.0,Project K,18 months,180000.0
+12,neha,HR,12000,delhi,1.0,Project L,3 months,25000.0
+13,vikram,IT,13000,hyderabad,3.0,Project M,12 months,110000.0
+19,carol,IT,19000,mumbai,,,,
+20,dave,HR,16500,delhi,,,,
+21,emma,IT,17500,hyderabad,,,,
+22,frank,HR,8500,chennai,3.0,Project V,12 months,105000.0
+23,george,IT,9500,mumbai,2.0,Project W,6 months,65000.0
+24,harry,HR,10500,delhi,1.0,Project X,15 months,140000.0
+25,Mohammed,IT,11500,hyderabad,3.0,Project Y,24 months,220000.0
+15,deepa,IT,15000,mumbai,1.0,Project O,15 months,130000.0
+26,John,HR,16000,delhi,,,,
+28,alice,IT,17000,hyderabad,,,,

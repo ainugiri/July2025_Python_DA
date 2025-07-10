@@ -1,0 +1,25 @@
+eid,des_level,proj_name,proj_duration,proj_budget
+1,1,Project A,12 months,100000
+2,2,Project B,6 months,50000
+3,1,Project C,3 months,30000
+4,3,Project D,18 months,200000
+5,2,Project E,9 months,75000
+6,1,Project F,15 months,150000
+7,3,Project G,24 months,300000
+8,2,Project H,12 months,120000
+9,1,Project I,6 months,60000
+10,3,Project J,9 months,90000
+11,2,Project K,18 months,180000 
+12,1,Project L,3 months,25000
+13,3,Project M,12 months,110000
+14,2,Project N,6 months,70000
+15,1,Project O,15 months,130000
+16,3,Project P,24 months,250000
+17,2,Project Q,9 months,80000
+18,1,Project R,12 months,95000
+19,3,Project S,6 months,55000
+20,2,Project T,18 months,170000
+21,1,Project U,3 months,40000
+22,3,Project V,12 months,105000
+23,2,Project W,6 months,65000
+24,1,Project X,15 months,140000
